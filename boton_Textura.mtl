@@ -1,0 +1,12 @@
+# Blender 4.1.1 MTL File: 'boton_Textura.obj.blend'
+# www.blender.org
+
+newmtl material_boton
+Ns 456.537659
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 2.600000
+d 0.986486
+illum 9
+map_Kd C:/Users/Edgar/Downloads/Imagen_ladrillo_graficas.jpg
